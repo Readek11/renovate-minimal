@@ -1,17 +1,16 @@
 # minimal-reproduction-template
 
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+Reproduction for the [Renovate discussion 39139](https://github.com/renovatebot/renovate/discussions/39139).
 
 ## Current behavior
 
-Explain the current behavior here.
+Renovate bumps up application version, f.e. from package.json or Chart.yaml and I want to know if the new version of the application is available somewhere, to be used in PR title.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+New application version is available for usage in PR title. The version I am looking for is in line 3 of [package.json](package.json) in PR created by Renovate.
+
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/39139

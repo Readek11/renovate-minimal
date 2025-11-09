@@ -1,0 +1,10 @@
+{
+  "name": "new_renovate",
+  "version": "1.0.0",
+  "description": "Simple project for testing Renovate",
+  "main": "index.js",
+  "dependencies": {
+    "express": "5.0.0",
+    "lodash": "4.17.15"
+  }
+}
