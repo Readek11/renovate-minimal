@@ -10,6 +10,8 @@ Renovate bumps up application version, f.e. from package.json or Chart.yaml and 
 
 New application version is available for usage in PR title. The version I am looking for is in line 3 of [package.json](package.json) in PR created by Renovate.
 
+I am looking for option to set Pr title to: "chore: bump new_renovate to 1.0.1".
+
 
 ## Link to the Renovate issue or Discussion
 

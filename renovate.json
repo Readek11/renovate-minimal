@@ -3,7 +3,8 @@
   "extends": ["config:base"],
   "packageRules": [
     {
-      "matchUpdateTypes": ["minor", "patch"]
+      "matchUpdateTypes": ["minor", "patch"],
+      "commitMessageTopic": "chore: bump new_renovate to ..."
     }
   ],
   "bumpVersion": "patch",
