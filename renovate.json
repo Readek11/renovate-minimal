@@ -5,8 +5,8 @@
     {
       "matchUpdateTypes": ["minor", "patch"],
       "commitMessageAction": "chore: bump",
-      "commitMessageTopic": "new_renovate",
-      "commitMessageExtra": "..."
+      "commitMessageTopic": "new_renovate from ...",
+      "commitMessageExtra": "to ..."
     }
   ],
   "bumpVersion": "patch",
