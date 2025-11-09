@@ -4,7 +4,9 @@
   "packageRules": [
     {
       "matchUpdateTypes": ["minor", "patch"],
-      "commitMessageTopic": "chore: bump new_renovate to ..."
+      "commitMessageAction": "chore: bump",
+      "commitMessageTopic": "new_renovate",
+      "commitMessageExtra": "..."
     }
   ],
   "bumpVersion": "patch",
